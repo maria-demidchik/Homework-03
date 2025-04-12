@@ -157,12 +157,12 @@ select:hover,
 .label {
     font-weight: 400;
     font-size: 16px;
-    order: 4;
     gap: 20px;
 }
 
 form {
     margin-bottom: 40px;
+    order: -1;
 }
 
 .text-field {
@@ -186,7 +186,6 @@ form {
     font-weight: 700;
     font-size: 14px;
     color: #fff;
-    order: 3;
     cursor: pointer;
 }
 
